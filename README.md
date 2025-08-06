@@ -1,10 +1,10 @@
-Hello World. 
+Hello World!
 
-I'm Adriano nicknamed Piro.
+Sou o Adriano, desenvolvedor fullstack com sólida experiência em desenvolvimento web, 3D e design, e agora estou direcionando toda essa bagagem para minha grande paixão: os games!
 
-I'm a Brazilian programmer passionate for game development, design and programming. 
+Atualmente, busco a certificação AWS para construir uma sólida infraestrutura de games online e escaláveis. 
 
-Feel free to contact me. Let'sCode
+Meu objetivo é migrar definitivamente para essa indústria, aplicando essa visão multidisciplinar para criar experiências inovadoras."
 
 <br /><br />
 
